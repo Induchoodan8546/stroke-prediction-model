@@ -118,4 +118,5 @@ It emphasizes not only model performance but also explainability and domain-awar
 
 ## 📄 License
 
-This project is open for educational and non-commercial use.
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project with proper attribution.
